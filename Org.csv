@@ -1,41 +1,41 @@
 name,imageUrl,positionName,region,id,parentId
 Jennifer Fey,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Senior Vice President,NA,O-101,
-Carlos Navarro,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Carlos.png,"VP, Media",NA,O-201,O-101
-Ashley Wandishin,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/AshleyW.png,"Director, Media Strategy & Planning",NA,O-301,O-201
-Planned Hire (Backfill Ryan),https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,"Associate Director, Media Strategy & Planning",NA,O-401,O-301
-Planned Hire,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,"Associate Director, Media Strategy & Planning",NA,O-402,O-301
-Ashley Bailey,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/AshleyB.png,Sr. Media Buyer II,NA,O-501,O-401
-Priyanka Dhawan,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Priyanka.png,Sr. Media Buyer II,NA,O-502,O-401
-Neha Sharma,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Neha.png,Sr. Media Buyer II,NA,O-503,O-401
-Evan Chapman,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Evan.jpg,Sr. Media Buyer II,NA,O-504,O-401
-Michelle Levine,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Michelle.png,Sr. Media Buyer I,NA,O-505,O-401
-Nicholas Mar,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Nick.png,Sr. Media Buyer I,NA,O-506,O-401
-Danielle Woodhead,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/DanielleW.png,Sr. Media Buyer I,NA,O-507,O-402
-Charlene Henry,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Charlene.png,Sr. Media Buyer I,NA,O-508,O-402
-Adrian Vargas,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Adrian.jpg,Sr. Media Buyer I,NA,O-509,O-402
-Jonathan Oei,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Jonathan.png,Sr. Media Buyer I,NA,O-510,O-402
+Carlos Navarro,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Carlos.png,"Vice President, Digital Media",NA,O-201,O-101
+Ashley Wandishin,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/AshleyW.png,"Director, Growth",NA,O-301,O-201
+Katie Kester,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,"Associate Director, Growth",NA,O-401,O-301
+Planned Hire 1,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,"Associate Director, Growth",NA,O-402,O-301
+Ashley Bailey,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/AshleyB.png,Sr. Digital Marketing Manager II,NA,O-403,O-301
+Priyanka Dhawan,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Priyanka.png,Sr. Digital Marketing Manager II,NA,O-404,O-301
+Neha Sharma,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Neha.png,Sr. Digital Marketing Manager II,NA,O-405,O-301
+Evan Chapman,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Evan.jpg,Sr. Digital Marketing Manager II,NA,O-406,O-301
+Michelle Levine,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Michelle.png,Sr. Digital Marketing Manager I,NA,O-407,O-301
+Nicholas Mar,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Nick.png,Sr. Digital Marketing Manager I,NA,O-408,O-301
+Danielle Woodhead,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/DanielleW.png,Sr. Digital Marketing Manager I,NA,O-409,O-301
+Charlene Henry,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Charlene.png,Sr. Digital Marketing Manager I,NA,O-410,O-301
+Adrian Vargas,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Adrian.jpg,Sr. Digital Marketing Manager I,NA,O-411,O-301
+Jonathan Oei,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Jonathan.png,Sr. Digital Marketing Manager I,NA,O-412,O-301
 Paul Kahng,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Paul.png,"Associate Director, Analytics",NA,O-302,O-201
-Abdul Sharif,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,"Associate Director, Media Strategy & Planning",NA,O-303,O-201
-Ashley Cherry,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Media Buyer I,NA,O-511,O-402
-Daniel Delgado,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Media Buyer I,NA,O-512,O-402
-Dave Liston,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/female.jpeg,Sr. Media Buyer I,NA,O-513,O-403
-Planned Hire (Backfill Akshata),https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Media Buyer,NA,O-514,O-403
-Planned Hire (Backfill Sissy),https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Media Buyer,NA,O-515,O-403
-Shafeeq Rahaman,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Shafeeq.png,Sr. Marketing Analyst,NA,O-516,O-302
-Hannah Hon,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Marketing Analyst,NA,O-517,O-302
-Yashraj Swarnkar,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Marketing Analyst,NA,O-518,O-302
-Kevin Chen,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Media Planner II,NA,O-304,O-201
-Henry Cardenas,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,"VP, Media",NA,O-201,O-101
-Nathan White,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,"Associate Director, Media Strategy & Planning",NA,O-304,O-202
-Grace Rountry,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Media Buyer II,NA,O-519,O-304
-Planned Hire (Lucas Chen Backfill),https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Media Buyer II,NA,O-520,O-304
-Planned Hire,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Media Finance Analyst,NA,O-521,O-302
-Carolina Vargas,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Carolina.jpg,Sr. Media Buyer II,LATAM,O-522,O-403
-Santiago Canal,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Media Buyer II,LATAM,O-523,O-304
-Josh Lopez,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Media Buyer I,LATAM,O-524,O-304
-Adel Battikh,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Adel.png,"Associate Director, Media Strategy & Planning",EMEA,O-305,O-203
-Bindhya Chenthamara,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Media Buyer I,EMEA,O-525,O-304
-Ian Graydon,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Media Buyer I,EMEA,O-526,O-304
-Planned Hire,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Media Buyer II,APAC,O-527,O-403
-Planned Hire,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,"Associate Director, Media Strategy & Planning",APAC,O-403,O-301
-Akio Takahashi,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Media Buyer I,APAC,O-528,O-202
+Abdul Sharif,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,"Associate Director, Media Operations",NA,O-303,O-201
+Ashley Cherry,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Senior Digital Marketing Manager I,NA,O-413,O-301
+Daniel Delgado,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Digital Marketing Manager I,NA,O-414,O-301
+Dave Liston,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Digital Marketing Manager I,NA,O-415,O-301
+Akshata Kulkarni,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Digital Marketing Manager II,NA,O-416,O-301
+Sissy Paulino,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Digital Marketing Manager II,NA,O-417,O-301
+Shafeeq Rahaman,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Shafeeq.png,Sr. Analyst,NA,O-418,O-302
+Yashraj Swarnkar,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Analyst,NA,O-419,O-302
+Hannah Hon,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Analyst,NA,O-420,O-302
+Kevin Chen,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,"Sr. Manager, Media Operations",NA,O-421,O-303
+Henry Cardenas,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,"Vice President, Digital Media",NA,O-202,O-101
+Nathan White,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,"Associate Director, Growth",NA,O-304,O-202
+Grace Rountry,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Senior Digital Marketing Manager II,NA,O-422,O-304
+Lucas Chen,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Lucas.png,Senior Digital Marketing Manager II,NA,O-423,O-304
+Carolina Vargas,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Carolina.jpg,Sr. Digital Marketing Manager II,LATAM,O-424,O-301
+Santiago Canal,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Digital Marketing Manager II,LATAM,O-425,O-304
+Jo Cana,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,"Director, Growth",NA,O-203,O-101
+Josh Lopez,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Digital Marketing Manager I,LATAM,O-426,O-304
+Adel Battikh,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Adel.png,"Associate Director, Growth",EMEA,O-305,O-203
+Planned Hire (Bindhya potentially),https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Digital Marketing Manager I,EMEA,O-427,O-305
+Ian Graydon,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Digital Marketing Manager I,EMEA,O-428,O-305
+Planned Hire 2,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Digital Marketing Manager II,APAC,O-306,O-201
+Planned Hire 3,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,"Associate Director, Growth",APAC,O-307,O-201
+Akio Takahashi,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Sr. Digital Marketing Manager I,APAC,O-429,O-202
