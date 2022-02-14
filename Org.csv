@@ -1,3 +1,17 @@
 name,imageUrl,positionName,region,id,parentId
 Jennifer Fey,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,Senior Vice President,NA,O-101,
 Carlos Navarro,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Carlos.png,"Vice President, Digital Media",NA,O-201,O-101
+Ashley Wandishin,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/AshleyW.png,"Director, Media Strategy & Planning",NA,O-301,O-201
+Planned Hire (Backfill Ryan),https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,"Associate Director, Media Strategy & Planning",NA,O-401,O-301
+Planned Hire,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/general.jpeg,"Associate Director, Media Strategy & Planning",NA,O-402,O-301
+Ashley Bailey,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/AshleyB.png,Sr. Media Buyer II,NA,O-501,O-401
+Priyanka Dhawan,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Priyanka.png,Sr. Media Buyer II,NA,O-502,O-401
+Neha Sharma,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Neha.png,Sr. Media Buyer II,NA,O-503,O-401
+Evan Chapman,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Evan.jpg,Sr. Media Buyer II,NA,O-504,O-401
+Michelle Levine,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Michelle.png,Sr. Media Buyer I,NA,O-505,O-401
+Nicholas Mar,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Nick.png,Sr. Media Buyer I,NA,O-506,O-401
+Danielle Woodhead,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/DanielleW.png,Sr. Media Buyer I,NA,O-507,O-402
+Charlene Henry,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Charlene.png,Sr. Media Buyer I,NA,O-508,O-402
+Adrian Vargas,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Adrian.jpg,Sr. Media Buyer I,NA,O-509,O-402
+Jonathan Oei,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Jonathan.png,Sr. Media Buyer I,NA,O-510,O-402
+Paul Kahng,https://raw.githubusercontent.com/shafeeqrahaman/OrgChartLearning/main/Images/Paul.png,"Associate Director, Analytics",NA,O-302,O-201
